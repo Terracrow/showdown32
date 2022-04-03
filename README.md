@@ -13,15 +13,11 @@ if you encounter a problem during the installation or directly on the applicatio
 
 # Download
 
-<<<<<<< HEAD
 | Mediafire | [Installater](https://www.mediafire.com/file/tsdol0ziyde0098/showdown32-installer.exe/file) | [Archive](https://www.mediafire.com/file/50c9xbjede3al0z/showdown32-1.0.0-archive.7z/file) |
-=======
-| Mediafire | [Installater](https://mediafire.com) | [Archive](https://mediafire.com) |
->>>>>>> 9547b4895184d400113093e6c43d48b6e7451bd4
 |-----------|-------------|---------|
 | GitHub    | [Installater](https://github.com/Terracrow/showdown32/releases) | [Archive](https://github.com/Terracrow/showdown32/releases) |
 
-# Copyrights
+# Copyright
 
 This project is under **Apache-2.0 license**, you can find the license [here](https://github.com/Terracrow/showdown32/blob/main/License).
 
