@@ -9,7 +9,7 @@ if you encounter a problem during the installation or directly on the applicatio
 ## Helpful link
 - [Docs](https://github.com/Terracrow/showdown32/wiki)
 - [Issues](https://github.com/Terracrow/showdown32/issues)
-- [Error patch note](https://github.com/Terracrow/showdown32/blob/main/error_path_note.md)
+- [Error patch note](https://github.com/Terracrow/showdown32/blob/main/error_patch_note.md)
 
 # Download
 
