@@ -13,11 +13,9 @@ if you encounter a problem during the installation or directly on the applicatio
 
 # Download
 
-| Mediafire | [Installater](https://mediafire.com) | [Archive](https://mediafire.com) |  |  |
-|---|---|---|---|---|
-| GitHub | [Installater](https://github.com/Terracrow/showdown32/releases) | [Archive](https://github.com/Terracrow/showdown32/releases) |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Mediafire | [Installater](https://mediafire.com) | [Archive](https://mediafire.com) |
+|-----------|-------------|---------|
+| GitHub    | [Installater](https://github.com/Terracrow/showdown32/releases) | [Archive](https://github.com/Terracrow/showdown32/releases) |
 
 # Copyrights
 
