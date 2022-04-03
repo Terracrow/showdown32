@@ -13,7 +13,7 @@ if you encounter a problem during the installation or directly on the applicatio
 
 # Download
 
-| Mediafire | [Installater](https://mediafire.com) | [Archive](https://mediafire.com) |
+| Mediafire | [Installater](https://www.mediafire.com/file/tsdol0ziyde0098/showdown32-installer.exe/file) | [Archive](https://www.mediafire.com/file/50c9xbjede3al0z/showdown32-1.0.0-archive.7z/file) |
 |-----------|-------------|---------|
 | GitHub    | [Installater](https://github.com/Terracrow/showdown32/releases) | [Archive](https://github.com/Terracrow/showdown32/releases) |
 
