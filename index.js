@@ -8,7 +8,7 @@
 
 const { BrowserWindow, app } = require('electron');
 const { playmain } = require('./lib/config/url.json');
-const { window_size, allow_fullscreen, menubar } = require('./lib/config/settings.json');
+const { window_size, allow_fullscreen, hidemenubar } = require('./lib/config/settings.json');
 
 // info log
 const info = require('./lib/script/info')();
@@ -24,11 +24,12 @@ function createMainWindow() {
     const win = new BrowserWindow({
         width,
         height,
-        autoHideMenuBar: menubar,
+        autoHideMenuBar: hidemenubar,
         fullscreenable: allow_fullscreen,
         icon: __dirname + "/lib/assets/favicon-128.png"
     });
 
+    win.setTitle('Showdown')
     win.loadURL(playmain);
 }
 

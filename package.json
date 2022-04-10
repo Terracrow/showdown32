@@ -1,6 +1,6 @@
 {
-    "name": "showdown32",
-    "version": "1.0.0",
+    "name": "showdown-32",
+    "version": "1.2.0",
     "description": "Pokemon Showdown desktop-app for 32bit devices.",
     "main": "index.js",
     "repository": "https://github.com/Terracrow/showdown32",
