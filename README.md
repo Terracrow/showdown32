@@ -1,23 +1,24 @@
-# Showdown32
+# ◈ Showdown-32 
 
-Unofficial project for __32bit__ desktop-app support for **Pokemon Showdown**. You can see all changes and patch in the file "patch_note.md" or [here](https://github.com/Terracrow/showdown32/blob/main/lib/logs/patch_note.md).
+32bits support for **Pokemon Showdown**. Patch note available [here](https://github.com/Terracrow/showdown32/blob/main/lib/logs/patch_note.md). <br>
+➜ Pokemon showdown is a battle simulator with competitive players and a strong fanbase.
 
-# Mistakes
+# ◈ Mistakes
 
-if you encounter a problem during the installation or directly on the application, please let us know by planning a GitHub issue.
+➜ if you encounter a problem during the installation or directly on the application, please let us know by planning a GitHub issue.
 
-## Helpful link
+## ◈ Helpful link
 - [Docs](https://github.com/Terracrow/showdown32/wiki)
 - [Issues](https://github.com/Terracrow/showdown32/issues)
 - [Error patch note](https://github.com/Terracrow/showdown32/blob/main/lib/logs/error_patch_note.md)
 
-# Download
+# ◈ Download
 
 | Mediafire | [Installater](https://download1498.mediafire.com/bi9w04h4vlhg/vek7enz3zyyuulw/Showdown32.exe) | [Archive](https://www.mediafire.com/file/50c9xbjede3al0z/showdown32-1.0.0-archive.7z/file) |
 |-----------|-------------|---------|
-| GitHub    | [Installater](https://github.com/Terracrow/showdown32/releases) | [Archive](https://github.com/Terracrow/showdown32/releases) |
+| GitHub  | [Installater](https://github.com/Terracrow/showdown32/releases) | [Archive](https://github.com/Terracrow/showdown32/releases) |
 
-# Copyright
+# ◈ Copyright
 
 This project is under **Apache-2.0 license**, you can find the license [here](https://github.com/Terracrow/showdown32/blob/main/License).
 
