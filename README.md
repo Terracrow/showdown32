@@ -1,6 +1,6 @@
 # Showdown32
 
-Unofficial project for __32bit__ desktop-app support for **Pokemon Showdown**. You can see all changes and patch in the file "patch_note.md" or [here](https://github.com/Terracrow/showdown32/blob/main/patch_note.md).
+Unofficial project for __32bit__ desktop-app support for **Pokemon Showdown**. You can see all changes and patch in the file "patch_note.md" or [here](https://github.com/Terracrow/showdown32/blob/main/logs/patch_note.md).
 
 # Mistakes
 
@@ -9,7 +9,7 @@ if you encounter a problem during the installation or directly on the applicatio
 ## Helpful link
 - [Docs](https://github.com/Terracrow/showdown32/wiki)
 - [Issues](https://github.com/Terracrow/showdown32/issues)
-- [Error patch note](https://github.com/Terracrow/showdown32/blob/main/error_patch_note.md)
+- [Error patch note](https://github.com/Terracrow/showdown32/blob/main/logs/error_patch_note.md)
 
 # Download
 

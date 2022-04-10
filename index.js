@@ -7,26 +7,49 @@
  */
 
 const { BrowserWindow, app } = require('electron');
-const { main } = require('./lib/config/url.json');
+const { playmain } = require('./lib/config/url.json');
+const { window_size, allow_fullscreen, menubar } = require('./lib/config/settings.json');
+
+// info log
+const info = require('./lib/script/info')();
 
 // create main window
 
 function createMainWindow() {
+    const height = window_size.split("x")[0];
+    const width = window_size.split("x")[1];
+
+    console.log(`WINDOW SIZE (H): ${height}\nWINDOW SIZE (W): ${width}`);
+
     const win = new BrowserWindow({
-        width: 800,
-        height: 800,
-        autoHideMenuBar: true,
-        fullscreenable: true,
+        width,
+        height,
+        autoHideMenuBar: menubar,
+        fullscreenable: allow_fullscreen,
         icon: __dirname + "/lib/assets/favicon-128.png"
     });
 
-    win.loadURL(main);
+    win.loadURL(playmain);
 }
+
+// function createOptionsWindow() {
+//     const win = new BrowserWindow({
+//         width: 800,
+//         height: 800,
+//         autoHideMenuBar: true,
+//         fullscreenable: false,
+//         icon: __dirname + "/lib/assets/favicon-128.png",
+//         resizable: false
+//     });
+
+//     win.loadFile(__dirname + "/lib/views/options.html");
+// }
 
 // show window
 
 app.whenReady().then(() => {
     createMainWindow();
+    // createOptionsWindow();
 
     app.on('activate', () => {
         if (BrowserWindow.getAllWindows().length === 0) createMainWindow();
