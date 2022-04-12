@@ -1,3 +1,6 @@
+![3f441bd170a41b8a00ad20f338d2db28](https://user-images.githubusercontent.com/66390426/163015113-d53617b8-666c-412e-ace6-9bc6b7120f97.png)
+
+
 # ◈ Showdown-32 
 
 32bits support for **Pokemon Showdown**. Patch note available [here](https://github.com/Terracrow/showdown32/blob/main/lib/logs/patch_note.md). <br>
